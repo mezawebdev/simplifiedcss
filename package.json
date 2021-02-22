@@ -1,0 +1,19 @@
+{
+  "name": "simplifiedcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mezawebdev/simplifiedcss.git"
+  },
+  "author": "Alex Meza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mezawebdev/simplifiedcss/issues"
+  },
+  "homepage": "https://github.com/mezawebdev/simplifiedcss#readme"
+}
